@@ -12,5 +12,6 @@ public class Exercise1 {
         System.out.println(randomNumber);
         System.out.println(randomNumber2);
         System.out.println(randomNumber3);
+        System.out.println("Three Random Numbers = " + randomNumber + ";" + randomNumber2 + ";" + randomNumber3 + ";");
         }
     }
