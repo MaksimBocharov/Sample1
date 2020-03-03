@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c7fc5849-5c94-4a97-818b-b27ba6c0dd8f" name="Default Changelist" comment="third">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/untitled/Exercise2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/untitled/Exercise3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/untitled/META-INF/untitled.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/src/AmountCounter.java" afterDir="false" />
+    <list default="true" id="c7fc5849-5c94-4a97-818b-b27ba6c0dd8f" name="Default Changelist" comment="four">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +30,7 @@
     <property name="jdk.selected.JAVA_MODULE" value="11" />
     <property name="restartRequiresConfirmation" value="false" />
   </component>
-  <component name="RunManager" selected="Application.AmountCounter">
+  <component name="RunManager" selected="Application.NewAmountCounter">
     <configuration name="AmountCounter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AmountCounter" />
       <module name="untitled" />
@@ -42,29 +38,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercise2" />
+    <configuration name="GuessingNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GuessingNumber" />
       <module name="untitled" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VendingMachine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="VendingMachine" />
+    <configuration name="NewAmountCounter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NewAmountCounter" />
       <module name="untitled" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="dddd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dddd" />
+    <configuration name="fff" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fff" />
       <module name="untitled" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ddgtd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ddgtd" />
+    <configuration name="sksjs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sksjs" />
       <module name="untitled" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -72,11 +68,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NewAmountCounter" />
+        <item itemvalue="Application.sksjs" />
+        <item itemvalue="Application.fff" />
         <item itemvalue="Application.AmountCounter" />
-        <item itemvalue="Application.VendingMachine" />
-        <item itemvalue="Application.dddd" />
-        <item itemvalue="Application.ddgtd" />
-        <item itemvalue="Application.Exercise2" />
+        <item itemvalue="Application.GuessingNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -145,50 +141,65 @@
       <option name="project" value="LOCAL" />
       <updated>1582732933883</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="third">
+      <created>1582733228385</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1582733228385</updated>
+    </task>
+    <task id="LOCAL-00008" summary="four">
+      <created>1583253118607</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1583253118607</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Exercise" />
     <MESSAGE value="first" />
     <MESSAGE value="second" />
-    <MESSAGE value="third" />
     <MESSAGE value="Homework" />
-    <option name="LAST_COMMIT_MESSAGE" value="Homework" />
+    <MESSAGE value="third" />
+    <MESSAGE value="four" />
+    <option name="LAST_COMMIT_MESSAGE" value="four" />
   </component>
   <component name="WindowStateProjectService">
     <state x="566" y="297" width="403" height="239" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1582732353972">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="566" y="297" width="403" height="239" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1582732353972" />
-    <state x="424" y="6" key="CommitChangelistDialog2" timestamp="1582733177985">
+    <state x="424" y="6" key="CommitChangelistDialog2" timestamp="1583253116857">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="424" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1582733177985" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1582732527336">
+    <state x="424" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1583253116857" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1583253075438">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582732527336" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1582732527336">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1583253075438" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1583253075422">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1582732527336" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1582732527336">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1583253075422" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1583253075422">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1582732527336" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1582732527336">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1583253075422" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1583253075438">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1582732527336" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1582732941617">
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1583253075438" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1582733233181">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1582732941617" />
-    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1582712554135">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1582733233181" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1583252303757">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1582712554135" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1583252303757" />
     <state x="209" y="32" key="new project wizard" timestamp="1582653787067">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
