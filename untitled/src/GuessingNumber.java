@@ -28,6 +28,6 @@ public class GuessingNumber {
         }
         System.out.println("You won");
         System.out.println("The number was = " + numberToGuess);
-        System.out.println("It took you " + numberOfTries + "tries");
+        System.out.println("It took you " + numberOfTries + " tries");
     }
 }
